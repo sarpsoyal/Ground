@@ -1,3 +1,5 @@
+!!! Still in early development, only recommended for experimental usage yet
+
 # Ground
 
 Ground is an very easy and lightweight library to create your next python text-based game.
